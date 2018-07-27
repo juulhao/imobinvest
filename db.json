@@ -1,0 +1,10 @@
+{
+    "users": [
+      {"id": 1, "username": "juulhao@gmail.com", "password": "171255pt", "role": "admin"},
+      {"id": 2, "username": "michelle@gmail.com", "password": "123456", "role": "user"}
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+}
