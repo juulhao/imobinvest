@@ -27,7 +27,7 @@
                                 Valor aplicado mês de Fevereiro 2018: R$ 45.000,00
                             </p>
                              <p>
-                                Valor aplicado mês de Agosto 2018: R$ 15.000,00
+                                Valor aplicado mês de Agosto 2018: R$ 55.000,00
                             </p>
                             <p>Total: R$ 125.000,00</p>
                         </article>
